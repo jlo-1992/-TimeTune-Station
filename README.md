@@ -1,7 +1,5 @@
 # 時調共鳴站 TimeTune Station
-[Click here](<[https://jlo-1992.github.io/clock/index.html](https://jlo-1992.github.io/-TimeTune-Station/](https://jlo-1992.github.io/-TimeTune-Station/)>) to access the clock.
-
-[Click here][<https://jlo-1992.github.io/-TimeTune-Station/>]
+[Click here](<https://jlo-1992.github.io/-TimeTune-Station/>) to access the clock.
 
 ⏰ 指針時鐘即時轉動  
 左上角的經典指針鐘面，隨時間緩緩流轉，如詩般記錄每分每秒。
